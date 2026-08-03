@@ -6,9 +6,9 @@
 #    By: ealiman <ealiman@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/08/03 15:45:56 by ealiman           #+#    #+#              #
-#    Updated: 2026/08/03 16:11:31 by ealiman          ###   ########.fr        #
+#    Updated: 2026/08/03 16:40:56 by ealiman          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 def ft_hello_garden():
-	print("Hello, Garden Community!")
+    print("Hello, Garden Community!")
