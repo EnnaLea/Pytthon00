@@ -2,3 +2,4 @@ __pycache__
 *__
 *.
 .flake8
+main.py
